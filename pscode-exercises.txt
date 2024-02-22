@@ -1,0 +1,48 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+(Obtain 2 number from input source
+Number 1 will be called Num1
+Number 2 will be called Num2
+Fetch Num1 and add it to Num2 for a sum of those two Numbers
+Print the sum of those two numbers on the screen)
+
+// Exercise 2: Check if a Number is Even or Odd
+
+(Obtain a number from an input source
+Fetch Number that was obtained from input source.
+Check if number is divisible evenly by 2 if yes print Even
+if no print odd)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(Obtain 4 separate numbers from source input
+The first number provided will be Num1
+The second number provided will be Num2
+The third number provided will be Num3
+The fourth number provided will be Num4
+The fifth number provided will be Num5
+Fetch Num1, Num2, Num3, Num4 and Num5 and then add them together and divide the total by the number 5 to determine the average of the five numbers
+Store this in DB1 as Average
+
+Fetch Num1, Num2, Num3, Num4 and Num5 and then determine which of the five is the largest and which of the five is the smallest total
+Store the largest in DB1 as Maximum and Store the smallest in DB1 as Minimum
+
+Fetch Average in DB1 and print on screen labeled as Average - This is the average of the 5 separate nubmers that were input by the source
+Fetch Maximum in DB1 and print on screen labeled as Maximum - This is the largest number that was input by the source
+Fetch Minimum in DB1 and print on screen labeled as Minimum - This is the smallest number that was input by the source)
+
+-- END --
